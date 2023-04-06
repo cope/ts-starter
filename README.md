@@ -2,7 +2,7 @@
 
 ### typescript starter
 
-Create the lib folder.
-pnpm i
-pnpm l
-pnpm build
+1. Create the lib folder.
+2. pnpm i
+3. pnpm l
+4. pnpm build
